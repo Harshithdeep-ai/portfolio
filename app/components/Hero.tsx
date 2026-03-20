@@ -14,7 +14,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           className="text-5xl md:text-6xl font-bold"
         >
-          Hi, I'm <span className="text-blue-500">Shiva Prasad</span>
+          Hi, I'm <span className="text-blue-500">Harshithdeep P</span>
         </motion.h1>
 
         <p className="text-2xl mt-6 text-gray-400">
